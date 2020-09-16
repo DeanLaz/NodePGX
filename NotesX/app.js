@@ -1,3 +1,6 @@
-const fs = require("fs");
+const validator = require("validator");
+const getNotes = require("./notes.js");
+const chalk = require("chalk");
 
-fs.writeFileSync("notes.txtno", "this File was created by Node.js");
+console.log(chalk.bold.green("Chalk in Green"));
+console.log(validator.isEmail("deanlazx@gmail.com"));
