@@ -2,9 +2,17 @@
 
 ## Projects
 
+### WeatherX Webapp
+
+#### WeatherX Technologies
+
+- Node.js
+- WeatherStack API
+- Mapbox Geocode API
+
 ### NotesX Webapp
 
-#### Notes X Technologies
+#### NotesX Technologies
 
 - Node.js
 - Validator.js
