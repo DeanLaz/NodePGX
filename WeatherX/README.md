@@ -5,5 +5,8 @@
 ### Technologies
 
 - NodeJS
+- Express + Handlebars
 - WeatherStack API
 - Mapbox Geocode API
+
+

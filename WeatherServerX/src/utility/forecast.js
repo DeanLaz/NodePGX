@@ -16,12 +16,13 @@ const forecast = (latitude, longitude, callback) => {
     } else {
       callback(
         undefined,
-        body.current.weather_descriptions[0] +
-          " It is currently " +
+        "It's " +
+          body.current.weather_descriptions[0] +
+          " Outside and currently " +
           body.current.temperature +
-          " degrees out. However, It feels like " +
+          ` degrees out and feels like ` +
           body.current.feelslike +
-          " There is a " +
+          " with " +
           body.current.humidity +
           "% Humidity."
       );
