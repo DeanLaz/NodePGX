@@ -2,7 +2,7 @@
 
 ## Projects
 
-### WeatherX Webapp
+- ### WeatherX Webapp
 
 #### WeatherX Technologies
 
@@ -10,7 +10,7 @@
 - WeatherStack API
 - Mapbox Geocode API
 
-### NotesX Webapp
+- ### NotesX Webapp
 
 #### NotesX Technologies
 
