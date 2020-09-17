@@ -1,21 +1,25 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
 body {
-  text-align: center;
-  color: #005791;
+  color: #000000;
+  font-family: "Montserrat", sans-serif;
   font-family: arial;
   max-width: 650px;
   margin: 0 auto;
   padding: 0 16px;
-
+  text-align: center;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
 }
 
 .main-content {
+  font-family: "Montserrat", sans-serif;
   flex-grow: 1;
 }
 
 footer {
+  font-family: "Montserrat", sans-serif;
   color: #888888;
   border-top: 1px solid #eeeeee;
   margin-top: 16px;
@@ -23,21 +27,43 @@ footer {
 }
 
 header {
+  font-family: "Montserrat", sans-serif;
   margin-top: 16px;
   margin-bottom: 48px;
+  color: #001f31;
 }
 
 h1 {
+  font-family: "Montserrat", sans-serif;
   font-size: 64px;
   margin-bottom: 16px;
+  color: #001f31;
 }
 
 header a {
-  color: #888888;
+  font-family: "Montserrat", sans-serif;
+  color: #001f31;
   margin-right: 16px;
   text-decoration: none;
 }
 
 .portrait {
+  font-family: "Montserrat", sans-serif;
   width: 250px;
+}
+
+input {
+  font-family: "Montserrat", sans-serif;
+  border: 1px solid #cccccc;
+  padding: 8px;
+}
+
+button {
+  font-family: "Montserrat", sans-serif;
+  cursor: pointer;
+  border: 1px solid #003e79;
+  background: #002147;
+  color: white;
+  padding: 8px;
+  border-radius: 5px;
 }
