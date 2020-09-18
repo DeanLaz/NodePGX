@@ -2,17 +2,32 @@
 
 ## Projects
 
-- ### WeatherX Webapp
+### TaskManagerX
+
+#### TaskManagerX Technologies
+
+- NodeJS
+- MongoDB
+
+### WeatherX + WeatherServerX Webapp
 
 #### WeatherX Technologies
 
-- Node.js
+- NodeJS
+- Express
+- Handlebars
+- CSS
 - WeatherStack API
 - Mapbox Geocode API
+- Heroku
 
-- ### NotesX Webapp
+### NotesX Webapp
 
 #### NotesX Technologies
 
-- Node.js
-- Validator.js
+- Node js
+- Validator
+
+## Credits
+
+By Dean Lazarof as part of "The Complete Node js Developer Course" by Andrew Mead.

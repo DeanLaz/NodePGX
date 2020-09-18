@@ -1,11 +1,9 @@
-# AppX
+# TaskManagerX
 
-## Technologies
+### Technologies
 
-### Node JS
-
-- Validator
-- Chalk
+- NodeJS
+- MongoDB
 
 ## Credits
 
