@@ -4,6 +4,7 @@
 
 - NodeJS
 - MongoDB
+- Mongoose
 
 ## Credits
 

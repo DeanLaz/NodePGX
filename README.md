@@ -8,6 +8,7 @@
 
 - NodeJS
 - MongoDB
+- Mongoose
 
 ### WeatherX + WeatherServerX Webapp
 
