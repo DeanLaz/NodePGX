@@ -3,8 +3,14 @@
 ### Technologies
 
 - NodeJS
+- Express
 - MongoDB
 - Mongoose
+- JWT Auth
+- Multer
+- Sharp
+- Bcrypt
+- Validator
 
 ## Credits
 
