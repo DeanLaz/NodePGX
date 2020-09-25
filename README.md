@@ -1,4 +1,7 @@
-# NodePlaygroundX
+# NodePGX
+
+NodePlaygroundX
+Several Projects Part of Node related tutorials & courses
 
 NOT DEPLOYED
 
